@@ -1,5 +1,6 @@
 # Mathematics-and-Python
 # This book contains the following functions: 
+
 #(i) Check Prime number; 
 #(ii) Sieve of Eratostenes; 
 #(iii) Factorial numbers; 
